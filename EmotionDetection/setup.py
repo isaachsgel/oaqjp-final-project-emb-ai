@@ -8,5 +8,5 @@ setup(
     description='A package for emotion detection using Watson API',
     author='I S',
     author_email='isaac.sagel@utp.ac.pa',
-    url='https://github.com/isaachsgel/EmotionDetection',  # Replace with actual URL if needed
+    url='https://github.com/isaachsgel/oaqjp-final-project-emb-ai/tree/main/EmotionDetection',  # Replace with actual URL if needed
 )
